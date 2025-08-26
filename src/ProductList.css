@@ -250,3 +250,10 @@ body {
         text-align: center; /* Align text to the center */
       }
   }
+
+  .item-count {
+    position: absolute;
+    font-size: 30px;
+    top: 32px;
+    right: 37px;
+  }
